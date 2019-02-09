@@ -340,33 +340,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4483303000638597196, guid: acb922cc330426f439617246984e4b4a,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.5375
-      objectReference: {fileID: 0}
-    - target: {fileID: 4483303000638597196, guid: acb922cc330426f439617246984e4b4a,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4483303000638597196, guid: acb922cc330426f439617246984e4b4a,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.23
-      objectReference: {fileID: 0}
-    - target: {fileID: 7383149695031026724, guid: acb922cc330426f439617246984e4b4a,
-        type: 3}
-      propertyPath: m_Color.a
-      value: 0.5647059
-      objectReference: {fileID: 0}
-    - target: {fileID: 202075345, guid: acb922cc330426f439617246984e4b4a, type: 3}
-      propertyPath: m_Name
-      value: Smoke
-      objectReference: {fileID: 0}
-    - target: {fileID: 202075346, guid: acb922cc330426f439617246984e4b4a, type: 3}
-      propertyPath: m_SortingOrder
-      value: 12
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: acb922cc330426f439617246984e4b4a, type: 3}
