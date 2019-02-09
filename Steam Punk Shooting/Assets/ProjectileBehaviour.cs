@@ -9,7 +9,7 @@ public class ProjectileBehaviour : MonoBehaviour
 
     private void Start()
     {
-        Destroy(gameObject, lifeTime);
+        Destroy(this.gameObject, lifeTime);
     }
 
     private void Update()
