@@ -1267,6 +1267,26 @@ PrefabInstance:
       propertyPath: InitialModule.startSpeed.minScalar
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
+        type: 3}
+      propertyPath: InitialModule.startSize.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
+        type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
+        type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4, type: 3}
 --- !u!4 &3120525158536567673 stripped
