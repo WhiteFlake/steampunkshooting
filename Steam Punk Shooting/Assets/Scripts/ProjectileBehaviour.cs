@@ -6,14 +6,21 @@ public class ProjectileBehaviour : MonoBehaviour
 {
     public float speed;
     public float lifeTime;
+    public GameObject explosion;
 
     private void Start()
     {
-        Destroy(this.gameObject, lifeTime);
+        Invoke("DestroyProjectile", lifeTime);
     }
 
     private void Update()
     {
         transform.Translate(Vector2.up * speed * Time.deltaTime);
+    }
+
+    public void DestroyProjectile()
+    {
+        Destroy(this.gameObject);
+        Instantiate(explosion, transform.position, Quaternion.identity);
     }
 }
