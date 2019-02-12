@@ -334,7 +334,7 @@ MonoBehaviour:
   projectile: {fileID: 3911662814993018052, guid: 6d62d548285a47a488ca766421adb1f0,
     type: 3}
   shotPoint: {fileID: 1470475964278739915}
-  timeBtwShots: 0.3
+  timeBetweenShots: 0.4
 --- !u!1 &2617086100007895765
 GameObject:
   m_ObjectHideFlags: 0
@@ -1295,6 +1295,11 @@ PrefabInstance:
     - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
         type: 3}
       propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
+        type: 3}
+      propertyPath: EmissionModule.rateOverDistance.scalar
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,

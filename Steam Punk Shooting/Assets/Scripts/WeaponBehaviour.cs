@@ -6,7 +6,7 @@ public class WeaponBehaviour : MonoBehaviour
 {
     public GameObject projectile;
     public Transform shotPoint;
-    public float timeBtwShots;
+    public float timeBetweenShots;
 
     private float shotTime;
 
@@ -22,7 +22,7 @@ public class WeaponBehaviour : MonoBehaviour
             if(Time.time >= shotTime)
             {
                 Instantiate(projectile, shotPoint.position, transform.rotation);
-                shotTime = Time.time + timeBtwShots;
+                shotTime = Time.time + timeBetweenShots;
             }
         }
     }
