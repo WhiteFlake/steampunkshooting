@@ -20,7 +20,7 @@ public class ProjectileBehaviour : MonoBehaviour
 
     public void DestroyProjectile()
     {
-        Destroy(this.gameObject);
+        Destroy(gameObject);
         Instantiate(explosion, transform.position, Quaternion.identity);
     }
 }

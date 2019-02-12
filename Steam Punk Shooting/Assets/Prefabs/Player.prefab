@@ -333,6 +333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 3911662814993018052, guid: 6d62d548285a47a488ca766421adb1f0,
     type: 3}
+  explosion: {fileID: 786882114, guid: 59010887cebbebf43a63436eaa5b578c, type: 3}
   shotPoint: {fileID: 1470475964278739915}
   timeBetweenShots: 0.4
 --- !u!1 &2617086100007895765
@@ -1246,6 +1247,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
+        type: 3}
+      propertyPath: stopAction
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8607884153008245404, guid: 20b7ddba86e58e041a07ce8c5fc5c4a4,
         type: 3}

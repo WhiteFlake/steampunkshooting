@@ -5,6 +5,7 @@ using UnityEngine;
 public class WeaponBehaviour : MonoBehaviour
 {
     public GameObject projectile;
+    public GameObject explosion;
     public Transform shotPoint;
     public float timeBetweenShots;
 
@@ -22,6 +23,7 @@ public class WeaponBehaviour : MonoBehaviour
             if(Time.time >= shotTime)
             {
                 Instantiate(projectile, shotPoint.position, transform.rotation);
+                Instantiate(explosion, shotPoint.position, transform.rotation);
                 shotTime = Time.time + timeBetweenShots;
             }
         }
