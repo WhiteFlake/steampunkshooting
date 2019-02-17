@@ -685,8 +685,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 3
   player: {fileID: 0}
+  distance: 0
+  facinRight: 0
   speed: 8
-  stopDistance: 2
+  timeBetweenAttacks: 3
+  damage: 1
+  stopDistance: 3
+  attackSpeed: 5
 --- !u!1 &8202863904974266681
 GameObject:
   m_ObjectHideFlags: 0
