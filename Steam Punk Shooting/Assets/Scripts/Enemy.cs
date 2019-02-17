@@ -14,6 +14,9 @@ public class Enemy : MonoBehaviour
     public bool facinRight;
 
     public float speed;
+    public float timeBetweenAttacks;
+    public int damage;
+    
 
     private void Start()
     {
