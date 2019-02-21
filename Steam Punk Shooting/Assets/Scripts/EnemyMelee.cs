@@ -7,6 +7,15 @@ public class EnemyMelee : Enemy
     public float stopDistance;
     private float attackTime;
     public float attackSpeed;
+    private float distance;
+    private bool facinRight;
+
+
+    public override void Start()
+    {
+        base.Start();
+        facinRight = true;
+    }
 
     private void Update()
     {
@@ -44,7 +53,6 @@ public class EnemyMelee : Enemy
             transform.position = Vector2.Lerp(originalPosition, targetPosition, formula);
             yield return null;
         }
-
     }
 
     public void Flip(float distance)

@@ -658,6 +658,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2583602685717980243, guid: 28b31bebde1e21d4da24b3105892dc76,
+        type: 3}
+      propertyPath: jesielIsGay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2583602685717980243, guid: 28b31bebde1e21d4da24b3105892dc76,
+        type: 3}
+      propertyPath: attackSpeed
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28b31bebde1e21d4da24b3105892dc76, type: 3}
 --- !u!1001 &2507694359165108503

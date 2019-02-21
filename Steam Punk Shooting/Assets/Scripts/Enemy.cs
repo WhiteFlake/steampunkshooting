@@ -8,20 +8,15 @@ public class Enemy : MonoBehaviour
 
     [HideInInspector]
     public Transform player;
-    [HideInInspector]
-    public float distance;
-    [HideInInspector]
-    public bool facinRight;
 
     public float speed;
     public float timeBetweenAttacks;
     public int damage;
     
 
-    private void Start()
+    public virtual void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
-        facinRight = true;
     }
 
     public void TakeDamage(int damageAmount)
