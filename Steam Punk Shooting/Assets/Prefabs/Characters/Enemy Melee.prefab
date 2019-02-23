@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5955148552919216865}
   - component: {fileID: 2170440417966075495}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69,8 +69,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -93,7 +93,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2620009914461432303}
   - component: {fileID: 297303049959453593}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Left Wheel Armor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,8 +149,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300004, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -173,7 +173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1231834839617178725}
   - component: {fileID: 8411960865192407043}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Right Wheel Armor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,8 +229,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300004, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -253,7 +253,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3857401042389902620}
   - component: {fileID: 8215954894447266824}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Left Wheel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -308,8 +308,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300010, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -332,7 +332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4701434297549359303}
   - component: {fileID: 8994731820890504083}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Right Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -388,8 +388,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300002, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -412,7 +412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7048366432869069305}
   - component: {fileID: 7215951648254212764}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -467,8 +467,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: 3
   m_Sprite: {fileID: 21300008, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -491,7 +491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3493156096406573897}
   - component: {fileID: 3161959106726877254}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -547,8 +547,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: 4
   m_Sprite: {fileID: 21300006, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -575,7 +575,7 @@ GameObject:
   - component: {fileID: 843379798712012284}
   - component: {fileID: 7474219204388530401}
   - component: {fileID: 2583602685717980243}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Enemy Melee
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -644,7 +644,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.10195612, y: 0.16426449}
@@ -685,13 +685,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 3
   player: {fileID: 0}
-  distance: 0
-  facinRight: 0
   speed: 8
   timeBetweenAttacks: 3
   damage: 1
   stopDistance: 3
-  attackSpeed: 5
+  attackSpeed: 8
 --- !u!1 &8202863904974266681
 GameObject:
   m_ObjectHideFlags: 0
@@ -702,7 +700,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5958388260415362864}
   - component: {fileID: 942536494439457728}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Right Wheel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -757,8 +755,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: -2
   m_Sprite: {fileID: 21300010, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -781,7 +779,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5307968614119004560}
   - component: {fileID: 3576724125864395407}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Left Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -837,8 +835,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300002, guid: 816e52351c7a25e4b814b67635414c09, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -861,7 +859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5737071046116386920}
   - component: {fileID: 3985089381450450169}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: 'DropShadow '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -916,8 +914,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -498947787
+  m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 89ced77e542a960469380ca58e92e251, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.5647059}
@@ -941,6 +939,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy Melee Smoke
+      objectReference: {fileID: 0}
+    - target: {fileID: 4047529090626524301, guid: 76ae9b7f248679846b1d2b1122b611e0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5910101481012455724, guid: 76ae9b7f248679846b1d2b1122b611e0,
         type: 3}
@@ -1012,6 +1015,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.43155614
       objectReference: {fileID: 0}
+    - target: {fileID: 2357892642327653563, guid: 76ae9b7f248679846b1d2b1122b611e0,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: -498947787
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357892642327653563, guid: 76ae9b7f248679846b1d2b1122b611e0,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76ae9b7f248679846b1d2b1122b611e0, type: 3}
 --- !u!4 &8607884153008245403 stripped
@@ -1031,6 +1044,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy Melee Smoke
+      objectReference: {fileID: 0}
+    - target: {fileID: 4047529090626524301, guid: 76ae9b7f248679846b1d2b1122b611e0,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5910101481012455724, guid: 76ae9b7f248679846b1d2b1122b611e0,
         type: 3}
@@ -1102,6 +1120,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.3744847
       objectReference: {fileID: 0}
+    - target: {fileID: 2357892642327653563, guid: 76ae9b7f248679846b1d2b1122b611e0,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: -498947787
+      objectReference: {fileID: 0}
+    - target: {fileID: 2357892642327653563, guid: 76ae9b7f248679846b1d2b1122b611e0,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76ae9b7f248679846b1d2b1122b611e0, type: 3}
 --- !u!4 &1724378742492962640 stripped
@@ -1121,6 +1149,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy Melee Smoke
+      objectReference: {fileID: 0}
+    - target: {fileID: 7013854063067903563, guid: 2534e0bfa3bc9bc418efc408defe4916,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 826802659939634154, guid: 2534e0bfa3bc9bc418efc408defe4916,
         type: 3}
@@ -1176,6 +1209,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -270
+      objectReference: {fileID: 0}
+    - target: {fileID: 8774537668164800125, guid: 2534e0bfa3bc9bc418efc408defe4916,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: -498947787
+      objectReference: {fileID: 0}
+    - target: {fileID: 8774537668164800125, guid: 2534e0bfa3bc9bc418efc408defe4916,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2534e0bfa3bc9bc418efc408defe4916, type: 3}

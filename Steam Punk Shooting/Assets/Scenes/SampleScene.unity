@@ -390,7 +390,7 @@ Transform:
   - {fileID: 640908327}
   - {fileID: 537414880}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1042650028
 GameObject:
@@ -526,7 +526,7 @@ Transform:
   m_LocalScale: {x: 2.5373042, y: 2.1477432, z: 1.2938211}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1384715682
 GameObject:
@@ -641,7 +641,7 @@ PrefabInstance:
     - target: {fileID: 1719201611860275610, guid: 28b31bebde1e21d4da24b3105892dc76,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1719201611860275610, guid: 28b31bebde1e21d4da24b3105892dc76,
         type: 3}
@@ -657,16 +657,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2583602685717980243, guid: 28b31bebde1e21d4da24b3105892dc76,
-        type: 3}
-      propertyPath: jesielIsGay
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2583602685717980243, guid: 28b31bebde1e21d4da24b3105892dc76,
-        type: 3}
-      propertyPath: attackSpeed
-      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28b31bebde1e21d4da24b3105892dc76, type: 3}
@@ -739,3 +729,72 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: acb922cc330426f439617246984e4b4a, type: 3}
+--- !u!1001 &8731770047641013497
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 237715481459360229, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy Gear
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1434183040954119483, guid: 65ea3130c1901fc42aa7ea71c361b335,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 65ea3130c1901fc42aa7ea71c361b335, type: 3}
