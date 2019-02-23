@@ -19,7 +19,10 @@ public class Rotate : MonoBehaviour
     {
         for(i = 0; i < rotations.Length; i++)
         {
-            rotations[i].gear.transform.Rotate(0, 0, rotations[i].direction * rotations[i].speed * Time.deltaTime);
+            if(rotations[i].gear != null)
+            {
+                rotations[i].gear.transform.Rotate(0, 0, rotations[i].direction * rotations[i].speed * Time.deltaTime);
+            }
         }
     }
 }
