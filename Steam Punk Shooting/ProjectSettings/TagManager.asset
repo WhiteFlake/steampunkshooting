@@ -42,12 +42,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Weapons
-    uniqueID: 3643233241
+  - name: Enemy Melee
+    uniqueID: 3796019509
     locked: 0
   - name: Player
     uniqueID: 1088645337
     locked: 0
-  - name: Enemies
-    uniqueID: 3796019509
+  - name: Enemy Gear
+    uniqueID: 3602241499
+    locked: 0
+  - name: Explosions
+    uniqueID: 1511812141
     locked: 0

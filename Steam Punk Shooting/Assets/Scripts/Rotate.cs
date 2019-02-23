@@ -4,13 +4,22 @@ using UnityEngine;
 
 public class Rotate : MonoBehaviour
 {
-    public GameObject wheelOne;
-    public GameObject wheelTwo;
-    public float speed;
+    [System.Serializable]
+    public class Gear
+    {
+        public GameObject gear;
+        public float direction;
+        public float speed;
+    }
+
+    public Gear[] rotations;
+    private int i;
 
     void Update()
     {
-        wheelOne.transform.Rotate(0, 0, -1 * speed * Time.deltaTime);
-        wheelTwo.transform.Rotate(0, 0, -1 * speed * Time.deltaTime);
+        for(i = 0; i < rotations.Length; i++)
+        {
+            rotations[i].gear.transform.Rotate(0, 0, rotations[i].direction * rotations[i].speed * Time.deltaTime);
+        }
     }
 }

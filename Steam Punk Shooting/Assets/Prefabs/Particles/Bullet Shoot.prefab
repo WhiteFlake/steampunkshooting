@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 786882116}
   - component: {fileID: 786882115}
   m_Layer: 0
-  m_Name: BulletShoot
+  m_Name: Bullet Shoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4735,8 +4735,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1511812141
+  m_SortingLayer: 4
   m_SortingOrder: 12
   m_RenderMode: 0
   m_SortMode: 0
