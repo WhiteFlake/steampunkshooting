@@ -45,6 +45,9 @@ TagManager:
   - name: Enemy Melee
     uniqueID: 3796019509
     locked: 0
+  - name: Summoner
+    uniqueID: 950722065
+    locked: 0
   - name: Player
     uniqueID: 1088645337
     locked: 0
