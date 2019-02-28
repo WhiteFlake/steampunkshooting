@@ -250,6 +250,7 @@ GameObject:
   - component: {fileID: 8453794158670838259}
   - component: {fileID: 8453794158670838256}
   - component: {fileID: 8453794158670838257}
+  - component: {fileID: 9211881901918767186}
   m_Layer: 9
   m_Name: Summoner
   m_TagString: Enemy
@@ -355,13 +356,39 @@ MonoBehaviour:
   rotations:
   - gear: {fileID: 8453794158096644947}
     direction: -1
-    speed: 500
+    speed: 600
   - gear: {fileID: 8453794159154564070}
     direction: 1
     speed: 150
   - gear: {fileID: 8453794158013348696}
     direction: -1
     speed: 150
+--- !u!114 &9211881901918767186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8453794158670838254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33711f0e98f4a9e408c7b15a288c91e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 2
+  player: {fileID: 0}
+  speed: 10
+  timeBetweenAttacks: 3
+  damage: 1
+  minX: -34
+  maxX: 34
+  minY: -18
+  maxY: 18
+  timeBetweenSummons: 10
+  enemyToSummon: {fileID: 4754016324173325960, guid: 65ea3130c1901fc42aa7ea71c361b335,
+    type: 3}
+  attackSpeed: 8
+  stopDistance: 3
 --- !u!1 &8453794158774634111
 GameObject:
   m_ObjectHideFlags: 0
