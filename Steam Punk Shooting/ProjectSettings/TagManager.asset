@@ -54,6 +54,9 @@ TagManager:
   - name: Enemy Gear
     uniqueID: 3602241499
     locked: 0
+  - name: Enemy Ranged
+    uniqueID: 2112526687
+    locked: 0
   - name: Explosions
     uniqueID: 1511812141
     locked: 0
